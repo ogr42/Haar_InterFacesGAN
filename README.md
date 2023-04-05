@@ -1,7 +1,8 @@
 # Haar_InterFacesGAN
-Original file is located at
+It's version 2.0, version 1.0 is  there: 
     https://colab.research.google.com/drive/1stjkMUhcTj3xy8KYjqxvFM3NRVV7nkwf
-# StyleGAN3 Inference Notebook
+
+StyleGAN3 Inference Notebook
 Source:
 https://colab.research.google.com/github/yuval-alaluf/stylegan3-editing/blob/master/notebooks/inference_playground.ipynb
 https://github.com/AnonSubm2021/TransStyleGAN
